@@ -1,0 +1,11 @@
+{
+  "version": 1,
+  "generatedAt": null,
+  "services": {
+    "api": { "en": "API", "ar": "واجهة الخدمة" },
+    "storefront": { "en": "Storefront", "ar": "المتجر التفاعلي" },
+    "portal": { "en": "Merchant portal", "ar": "لوحة التاجر" }
+  },
+  "latest": null,
+  "days": []
+}
